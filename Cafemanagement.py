@@ -6,11 +6,12 @@ menu = {
     'Burger':60,
     'Salad':70,
     'Coffee':80,
+    'Tea':55,
 }
 
 #Greet
 print("Welcome to Python Resturent")
-print("Pizza: Rs40\nPasta: Rs50\nBurger: Rs60\nSalad: Rs70\nCoffee: Rs80 ")
+print("Pizza: Rs40\nPasta: Rs50\nBurger: Rs60\nSalad: Rs70\nCoffee: Rs80\nTea:55 ")
 
 order_total=0
 # 40+50=90
